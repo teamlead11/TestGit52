@@ -8,4 +8,7 @@ public class BaseClass {
 		System.out.println("some chnages");
 	}
 
+	public void add(int a, int b) {
+		System.out.println(a + b);
+	}
 }
