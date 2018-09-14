@@ -10,4 +10,8 @@ public class TestCase1 {
 	public void testCase2() {
 		System.out.println("Test case2");
 	}
+
+	public void testCase1() {
+		System.out.println("Test case1");
+	}
 }
